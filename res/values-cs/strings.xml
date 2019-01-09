@@ -20,13 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Záhlaví</string>
   <string name="custom_header_image_notice">Sada obrázků záhlaví</string>
   <string name="browse_walls">Tapety</string>
-  <string name="omni_walls">Omni</string>
   <string name="wallpaper_type_dialog_title">Nastavit tapetu</string>
   <string name="wallpaper_type_both">Domovská a uzamykací obrazovka</string>
   <string name="wallpaper_type_system">Domovská obrazovka</string>
   <string name="wallpaper_type_lock">Zamykací obrazovka</string>
   <string name="header_creator_label">Autor\u003a </string>
-  <string name="no_crop_activity_dialog_text">Pro nastavení tapety pozadí zvolte aplikaci Omni Gallery</string>
   <string name="no_crop_activity_dialog_title">Galerie chybí</string>
   <string name="scrolling_wall_dialog_text">Chcete oříznout tapetu na velikost zobrazeni\u003f</string>
   <string name="scrolling_wall_dialog_title">Oříznout tapetu</string>

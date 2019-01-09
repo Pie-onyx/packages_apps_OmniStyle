@@ -20,13 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Glave</string>
   <string name="custom_header_image_notice">Slika glave nastavljena</string>
   <string name="browse_walls">Slike ozadja</string>
-  <string name="omni_walls">Omni</string>
   <string name="wallpaper_type_dialog_title">Nastavi sliko ozadja</string>
   <string name="wallpaper_type_both">Domači in zaklenjen zaslon</string>
   <string name="wallpaper_type_system">Domači zaslon</string>
   <string name="wallpaper_type_lock">Zaklenjen zaslon</string>
   <string name="header_creator_label">Avtor\u003a </string>
-  <string name="no_crop_activity_dialog_text">Za nastavitev slike ozadja je zahtevan program Omni Gallery</string>
   <string name="no_crop_activity_dialog_title">Manjka galerija</string>
   <string name="scrolling_wall_dialog_text">Ali želite sliko ozadja obrezati na velikost zaslona\u003f</string>
   <string name="scrolling_wall_dialog_title">Obreži sliko ozadja</string>

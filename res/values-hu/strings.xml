@@ -20,13 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="browse_header">Fejlécek</string>
   <string name="custom_header_image_notice">Fejléckép beállítva</string>
   <string name="browse_walls">Háttérképek</string>
-  <string name="omni_walls">Omni</string>
   <string name="wallpaper_type_dialog_title">Háttérkép beállítása</string>
   <string name="wallpaper_type_both">Kezdő- és zárképernyő</string>
   <string name="wallpaper_type_system">Kezdőképernyő</string>
   <string name="wallpaper_type_lock">Zárképernyő</string>
   <string name="header_creator_label">Készítő\u003a </string>
-  <string name="no_crop_activity_dialog_text">Omni galériára van szükség a háttérkép beállításához</string>
   <string name="no_crop_activity_dialog_title">A galéria hiányzik</string>
   <string name="scrolling_wall_dialog_text">A háttérképet szeretné levágni a kijelző méretére\u003f</string>
   <string name="scrolling_wall_dialog_title">Háttérkép körbevágása</string>
